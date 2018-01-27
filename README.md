@@ -1,15 +1,15 @@
-#2 Day Skeleton RPG
+# 2 Day Skeleton RPG
 
-##General Concept
+## General Concept
 - A nice cool barebones skeleton rpg
 - Basic combat system
 - Basic item system
 - Basic skeleton types (variable enemies)
 - Basic weapon system (variable weapons) 
 
-##Ideas and Stuff!
+## Ideas and Stuff!
 
-###Weapons
+### Weapons
 - Sword (dull or sharpened)
 - Dagger (bone or steel)
 - Staff (wooden or bone)

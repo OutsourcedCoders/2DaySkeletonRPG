@@ -1,2 +1,5 @@
-build
-
+#everything except source and source stuff
+/*
+!/src
+!/resources
+!README.md

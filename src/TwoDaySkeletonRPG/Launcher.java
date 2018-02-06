@@ -6,6 +6,7 @@ public class Launcher{
 		System.out.println("This will be the launcher for the skelerpg");
 		System.out.println("Wew.");
 		
+		
 	}
 
 }
